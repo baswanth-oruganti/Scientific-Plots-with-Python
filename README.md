@@ -1,1 +1,0 @@
-# Scientific-Plots-with-Python
